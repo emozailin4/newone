@@ -2,7 +2,10 @@ package scannerUse;
 import java.util.Scanner;
 public class Multiply {
 	public void MultiplyTable(int MaxNumber) {
+		boolean IsTrue = false;
 		if((MaxNumber>=1)||(MaxNumber<=9)){
+			isTrue = ture;
+			
 			if(int i = 0 ; i < MaxNumber; i++){
 				
 			}
