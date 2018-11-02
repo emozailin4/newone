@@ -17,7 +17,11 @@ public class Multiply {
 	}
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
+		Scanner sc = new Scanner(System.in);
+		int TypeInNumber = sc.nextInt();
+		sc.nextLine();
+		sc.close();
+		Multiply.MultiplyTable(TypeInNumber);
 	}
 
 }
